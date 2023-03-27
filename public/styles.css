@@ -1,0 +1,12 @@
+
+
+body, html{
+    font-family: Tahoma, sans-serif;
+    margin: 0px;
+    background-size:cover;
+}
+
+#root {
+    width:100%;
+   
+}
